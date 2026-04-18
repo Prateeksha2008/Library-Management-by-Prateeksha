@@ -48,7 +48,8 @@ A **Library Management System** is a web-based application designed to efficient
 ---
 ## 📸 Screenshots
 
-<img width="1919" height="1079" alt="Screenshot 2026-04-18 115804" src="https://github.com/user-attachments/assets/e130b5ba-dc62-4a9b-8ada-474fcb9c91ee" />
+ <img width="1919" height="1079" alt="Screenshot 2026-04-18 151036" src="https://github.com/user-attachments/assets/fe9bc863-98b1-4957-9785-9ff3514af020" />
+
 <img width="1915" height="1079" alt="Screenshot 2026-04-18 115811" src="https://github.com/user-attachments/assets/0a0c9f05-0a2f-4015-bdc4-954fbceee3de" />
 <img width="1919" height="1079" alt="Screenshot 2026-04-18 115825" src="https://github.com/user-attachments/assets/13f95c45-7616-4642-a055-5e4d1ede3182" />
 <img width="1919" height="1079" alt="Screenshot 2026-04-18 115832" src="https://github.com/user-attachments/assets/076988fb-67e9-420c-b4ea-8fa4253407f0" />
